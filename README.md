@@ -5,3 +5,4 @@
 I'm a computer science student.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamartinet7)](https://github.com/lucamartinet7/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamartinet7&show_icons=true&theme=radical)
