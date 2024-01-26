@@ -4,5 +4,4 @@
 
 I'm a computer science student at Epitech.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamartinet7&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamartinet7&show_icons=true&theme=transparent)
