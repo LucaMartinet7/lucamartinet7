@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart (Flutter) & Django (Python)**
 
-- 👯 I’m looking to collaborate on [Area](https://github.com/LucaMartinet7/Area-Tek3.git)
+- 👯 I’m looking to collaborate on [R-Type](https://github.com/LucaMartinet7/R-Type.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucaMartinet7/lucamartinet7.github.io.git](https://github.com/LucaMartinet7/lucamartinet7.github.io.git)
 
