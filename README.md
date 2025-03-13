@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luca Martinet</h1>
 <h3 align="center">Third year undergrad student at Epitech (International Track)</h3>
 
-- 🔭 I’m currently working on [Private Portfolio](https://github.com/LucaMartinet7/lucamartinet7.github.io.git)
+- 🔭 I’m currently working on [unrealeased]()
 
 - 🌱 I’m currently learning **Dart (Flutter) & Django (Python)**
 
-- 👯 I’m looking to collaborate on [R-Type](https://github.com/LucaMartinet7/R-Type.git)
+- 👯 I’m looking to collaborate on [xxx]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucaMartinet7/lucamartinet7.github.io.git](https://github.com/LucaMartinet7/lucamartinet7.github.io.git)
 
