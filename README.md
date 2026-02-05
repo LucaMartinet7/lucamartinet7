@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luca Martinet</h1>
-<h3 align="center">Graduate student at Epitech (International Track)</h3>
+<h3 align="center">Master student at Epitech (International Track)</h3>
 <h3 align="center">International student at Cardiff Metropolitain University(Software Development)</h3>
 
 - 🔭 I’m currently working on [unrealeased]()
