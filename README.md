@@ -21,7 +21,7 @@ Exchange student at Cardiff Metropolitan University — Software Engineering
   👉 <a href="https://github.com/LucaMartinet7">github.com/LucaMartinet7</a>
 
 - 📝 **Portfolio (WIP)**:  
-  👉 <a href="https://lucamartinet7.github.io/">lucamartinet7.github.io</a>
+  👉 <a href="https://lucamartinet.dev/">lucamartinet.dev</a>
 
 ---
 
