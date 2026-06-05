@@ -11,7 +11,6 @@ Exchange student at Cardiff Metropolitan University — Software Engineering
 - 🔭 Currently working on my **personal portfolio**
 - 🌱 Currently learning **Java**
 - 💬 Ask me about **C, C++, Python**
-- ⚡ Fun fact: I genuinely enjoy sleeping 😄
 
 ---
 
